@@ -43,6 +43,7 @@ steps:
 - task: AzureRmWebAppDeployment@4
   inputs:
     ConnectionType: 'AzureRM'
+    azureSubscription: 'Azure Pass - Sponsorship(9)(f5a9b817-7059-4bf9-9482-a772992626fa)'
     appType: 'webApp'
     WebAppName: '$(web_prefix)-$(web_site)-$(web_environment)'
     packageForLinux: '$(Pipeline.Workspace)/**/*.zip'
