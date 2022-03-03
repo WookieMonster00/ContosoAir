@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/markcarwayorg2/23ee9f7f-c0cc-42ca-a44f-3a40eb853bf3/7affc8c2-4c5b-4369-b7f1-baf512c865ab/_apis/work/boardbadge/e9ded911-96d2-4463-8293-5f641d33e7a3)](https://dev.azure.com/markcarwayorg2/23ee9f7f-c0cc-42ca-a44f-3a40eb853bf3/_boards/board/t/7affc8c2-4c5b-4369-b7f1-baf512c865ab/Microsoft.RequirementCategory)
 [![Build Status](https://dev.azure.com/markcarwaygithub/markcarway/_apis/build/status/WookieMonster00.ContosoAir?branchName=master)](https://dev.azure.com/markcarwaygithub/markcarway/_build/latest?definitionId=1&branchName=master)
 
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
